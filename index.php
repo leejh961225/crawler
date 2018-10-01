@@ -11,6 +11,7 @@ print_r($o[0][0]);
 
 
 //Reference:  http://investor-js.blogspot.com/2013/07/php.html https://opentutorials.org/module/6/5141
+// Git uploading guidelines https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 
 
 ?>
